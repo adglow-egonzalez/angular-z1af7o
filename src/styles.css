@@ -1,0 +1,8 @@
+/* Add application styles & imports to this file! */
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: Lato;
+  margin: 0;
+}
+
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
